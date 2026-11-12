@@ -93,6 +93,4 @@ https://churn-dashboard-wuqujyo9ptjstwdddvyb7i.streamlit.app/
 - Add more filters and charts to the dashboard
 - Connect to live customer data instead of a CSV file
 
-## Author
 
-Your name, your class or college, your teacher's name
